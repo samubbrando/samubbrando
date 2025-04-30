@@ -67,11 +67,10 @@
     <tr>
       <td>
         <ul>
-          <li> Computer Science - UFCG - 2024.1 </li> 
+          <li> Computer Science - UFCG: 2024.1 -> Now </li> 
           <li> Competitive Programming </li> 
-          <li> Java </li>
-          <li> Math - Calculus I </li>
           <li> C++ </li>
+          <li> AI </li>
       </td>
     </tr>
   </table>  
