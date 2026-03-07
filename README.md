@@ -82,8 +82,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=budes&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=budes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2&hide=jupyter%20notebook" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=samubbrando&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samubbrando&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2&hide=jupyter%20notebook" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -94,6 +94,6 @@
  
 <br clear="both">
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/budes/budes/output/github-contribution-grid-snake-dark.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/samubbrando/samubbrando/output/github-contribution-grid-snake-dark.svg" />
 
 ###
