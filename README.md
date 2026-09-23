@@ -73,10 +73,10 @@
       <td>
         <ul>
           <li> Computer Science - UFCG: 2024.1 -> Now </li> 
-          <li> Computer Networks </li> 
-          <li> Artificial Intelligence </li>
-          <li> Operational Systems </li>
-          <li> Programming Language Paradigms </li>
+          <li> Software Engineering </li> 
+          <li> Software Project </li>
+          <li> Concurrent Programming </li>
+          <li> Applied Statistics </li>
       </td>
     </tr>
   </table>  
